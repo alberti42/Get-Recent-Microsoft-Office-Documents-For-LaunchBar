@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BDAlias/BDAlias.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetRecentOfficeDocumentsLib/GetRecentOfficeDocumentsLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetRecentOneNoteDocuments/GetRecentOneNoteDocuments.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetRecentPowerPointDocuments/GetRecentPowerPointDocuments.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetRecentWordDocuments/GetRecentWordDocuments.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetRecentExcelDocuments/GetRecentExcelDocuments.xcodeproj">
+   </FileRef>
+</Workspace>
